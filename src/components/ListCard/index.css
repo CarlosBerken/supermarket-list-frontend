@@ -44,4 +44,5 @@
   width: 6px;
   height: 12px;
   object-fit: contain;
+  cursor: pointer;
 }

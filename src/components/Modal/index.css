@@ -53,3 +53,24 @@
   justify-content: space-between;
   margin-top: 62vh;
 }
+
+@media screen and (max-width: 830px) {
+  .modal-content {
+    width: 60vw;
+  }
+}
+
+@media screen and (max-width: 420px) {
+  .modal-content {
+    width: 100vw;
+  }
+
+  .buttons-container {
+    margin-top: 42vh;
+    gap: 10px;
+    height: 12vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
