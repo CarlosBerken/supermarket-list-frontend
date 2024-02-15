@@ -40,7 +40,7 @@ cd supermarket-list-frontend && npm install
 npm start
 ```
 
-4.(Optional) If you want build a production version
+4. (Optional) If you want build a production version
 
 ```
 npm build
